@@ -1,4 +1,4 @@
-#READ_ME
+# **READ_ME**
 
 O curso da GAMA ACADEMY iniciou com conceitos básicos e úteis para o bom desenvolvimento de um iniciante em tecnologia; e conhecimentos de alguns termos da área. 
 
